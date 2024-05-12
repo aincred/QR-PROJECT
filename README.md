@@ -1,2 +1,2 @@
 # QR-PROJECT
-Nde.js ,javascript
+Node.js ,javascript
